@@ -19,9 +19,6 @@ export default Fade;
     <div className="slider-container">
       <Slider {...settings}>
         <div>
-          <img src= "https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg?t=st=1730404549~exp=1730408149~hmac=0d428b35ccfa722e7abb25842139a36e097e8c6fd8eff018d4722c1df4ed665d&w=996https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg?t=st=1730404549~exp=1730408149~hmac=0d428b35ccfa722e7abb25842139a36e097e8c6fd8eff018d4722c1df4ed665d&w=996" />
-        </div>
-        <div>
           <img src="https://img.freepik.com/free-photo/luxurious-car-parked-highway-with-illuminated-headlight-sunset_181624-60607.jpg?t=st=1730404549~exp=1730408149~hmac=c39c3f9e9f909bee20271366a5cae8aa01327941a19fb5a5b47d48363df2e1de&w=996" />
         </div>
         <div>
