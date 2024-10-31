@@ -19,16 +19,16 @@ export default Fade;
     <div className="slider-container">
       <Slider {...settings}>
         <div>
-          <img src= "https://ru.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_40936318.htm#fromView=search&page=1&position=0&uuid=4558b100-e3e6-4d3b-bd9c-bdca9fb3c7e4" />
+          <img src= "https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg?t=st=1730404549~exp=1730408149~hmac=0d428b35ccfa722e7abb25842139a36e097e8c6fd8eff018d4722c1df4ed665d&w=996https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg?t=st=1730404549~exp=1730408149~hmac=0d428b35ccfa722e7abb25842139a36e097e8c6fd8eff018d4722c1df4ed665d&w=996" />
         </div>
         <div>
-          <img src="https://ru.freepik.com/free-photo/powerful-headlights-particle-view-modern-luxury-cars-parked-indoors-daytime_9831317.htm#fromView=search&page=1&position=4&uuid=4558b100-e3e6-4d3b-bd9c-bdca9fb3c7e4" />
+          <img src="https://img.freepik.com/free-photo/luxurious-car-parked-highway-with-illuminated-headlight-sunset_181624-60607.jpg?t=st=1730404549~exp=1730408149~hmac=c39c3f9e9f909bee20271366a5cae8aa01327941a19fb5a5b47d48363df2e1de&w=996" />
         </div>
         <div>
-          <img src="https://ru.freepik.com/free-photo/headlights-hood-black-luxury-car_10522600.htm#fromView=search&page=1&position=6&uuid=4558b100-e3e6-4d3b-bd9c-bdca9fb3c7e4"/>
+          <img src="https://img.freepik.com/free-photo/headlights-hood-black-luxury-car_146671-19730.jpg?t=st=1730404847~exp=1730408447~hmac=bbe0359c4c2a709d183d2e1731d17c3607bbb77145636fe4014d5de243ba09e6&w=996"/>
         </div>
         <div>
-          <img src="https://ru.freepik.com/free-photo/luxurious-car-parked-highway-with-illuminated-headlight-sunset_30182536.htm#fromView=search&page=1&position=11&uuid=4558b100-e3e6-4d3b-bd9c-bdca9fb3c7e4" />
+          <img src="https://img.freepik.com/free-photo/car-headlight-buildings-reflecting-headlight-car_181624-44601.jpg?t=st=1730404874~exp=1730408474~hmac=8da64499bc3ac14fdb8e5e4c9f4eed3bb115c0f2f37d44e90b9e3e558c233bd4&w=740" />
         </div>
       </Slider>
     </div>
